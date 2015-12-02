@@ -1,0 +1,22 @@
+{
+  "name": "taclass",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConlanMcNamee/december1.git"
+  },
+  "author": "Conlan_McNamee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConlanMcNamee/december1/issues"
+  },
+  "homepage": "https://github.com/ConlanMcNamee/december1#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
